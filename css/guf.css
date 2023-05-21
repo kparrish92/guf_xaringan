@@ -7,7 +7,7 @@ Updated: 05/21/2023
 /* Package defaults that we slightly tweak */
 
 a, a > code {
-  color: #00628f; /* rgb(249, 38, 114) */
+  color: #005ea8; /* rgb(249, 38, 114) */
   text-decoration: none;
 }
 
@@ -136,7 +136,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 
 /* H2 fonts */
 .title-slide h2 {
-  color: #00628f;
+  color: #005ea8;
   font-size: 35px;
   text-align: left;
   text-shadow: none;
@@ -167,7 +167,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 
 /* section divider red */
 .title-slide-section-red {
-  background-color: #00628f;
+  background-color: #005ea8;
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */
 }
 
@@ -204,7 +204,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 }
 
 .title-slide-final h1 {
-  color: #00628f;
+  color: #005ea8;
 }
 
 /*~~~~~~~~~~~~~~~~~~~~*/
@@ -220,11 +220,11 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 
 /* Make bold syntax compile to RU-red */
 strong {
-  color: #00628f;
+  color: #005ea8;
 }
 
 .RUred {
-  color: #00628f;
+  color: #005ea8;
 }
 
 /* Add blue tag */
@@ -255,7 +255,7 @@ strong {
 
 /* Color adjustments to headers */
 h1 {
-  color: #00628f;
+  color: #005ea8;
 }
 
 h3 {
@@ -274,7 +274,7 @@ ru-blockquote {
   margin-bottom: 1em;
   margin-left: 40px;
   margin-right: 40px;
-  border-left: solid 10px #00628f;
+  border-left: solid 10px #005ea8;
   background-color: #818181;
   padding: 1em;
   color: #fff;
