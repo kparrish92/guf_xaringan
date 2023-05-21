@@ -115,7 +115,6 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 /* Add image and change bg color */
 .title-slide {
   background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg/2560px-Logo-Goethe-University-Frankfurt-am-Main.svg.png);
-  background-position: 9% 15%;
   background-size: 55px;
   background-color: #fff;
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */
