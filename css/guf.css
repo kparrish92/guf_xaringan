@@ -115,8 +115,8 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 /* Add image and change bg color */
 .title-slide {
   background-image: url(https://kparrish92.github.io/guf_xaringan/img/logo/gu_logo.jpg);
-  width: 100px;
-  height: 100px;
+  width: 10px;
+  height: 10px;
   background-position: 9% 15%;
   background-size: 55px;
   background-color: #fff;
