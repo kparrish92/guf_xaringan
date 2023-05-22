@@ -9,7 +9,7 @@ body { font-family: 'Oswald', 'Oswald', 'Oswald', "Oswald", 'Oswald', 'Oswald';}
 h1, h2, h3 {
   font-family: 'Oswald';
   font-weight: normal;
-  font-size: 24;
+  font-size: 36;
 }
 
 .remark-code, .remark-inline-code { font-family: 'Inconsolata', monospace; }
