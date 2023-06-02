@@ -11,12 +11,6 @@ a, a > code {
   text-decoration: none;
 }
 
-html *
-{
-   font-size: 2em !important;
-   color: #000 !important;
-   font-family: Arial !important;
-}
 /* slightly lower and bigger than default */
 .footnote {
   position: absolute;
