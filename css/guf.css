@@ -281,3 +281,7 @@ ru-blockquote {
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
 }
+
+.remark-slide-content {
+  font-size: 24px;
+}
