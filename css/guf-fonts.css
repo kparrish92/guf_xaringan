@@ -5,14 +5,17 @@
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
 @import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700);
 
-body { font-family: 'Oswald', 'Oswald', 'Oswald', "Oswald", 'Oswald', 'Oswald';
-  font: 52px;
+body {
+    font: 16px Arial, sans-serif;
 }
+
 h1, h2, h3 {
   font-family: 'Oswald';
   font-weight: normal;
   font-size: 45;
 }
+
+
 
 .remark-code, .remark-inline-code { font-family: 'Inconsolata', monospace; }
 .remark-code-line-highlighted     { background-color: #ffff88; }
